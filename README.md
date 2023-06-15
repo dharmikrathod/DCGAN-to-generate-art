@@ -5,7 +5,7 @@ The goal of this project is to train a DCGAN to generate new works of abstract a
 
 
 
-Generated images after every 100 eoochs (I have ran the model for 2000 epochs)
+Above gif is of generated images after every 100 epochs (I have run the model for 2000 epochs)
 
 Dataset used: https://www.kaggle.com/datasets/ikarus777/best-artworks-of-all-time/code
 
